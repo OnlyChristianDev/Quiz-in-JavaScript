@@ -119,7 +119,7 @@ const questions = [
     {
         question: "Onde é o lugar correto para inserir JavaScript?",
         answers: [
-            { text: "Tanto no <head> quanto no <body> está correto", correct: true },
+            { text: "no <head> e no <body>", correct: true },
             { text: "No <body>", correct: false },
             { text: "No <head>", correct: false },
             { text: "Em outro lugar", correct: false }
@@ -153,10 +153,10 @@ const questions = [
     {
         question: 'Como podemos criar uma função no JavaScript?',
         answers: [
-            { text: 'function:myFunction()', correct: false },
+            { text: 'function: {myFunction()}', correct: false },
             { text: 'function myFunction()', correct: true },
             { text: 'function = myFunction()', correct: false },
-            { text: 'Nenhum desses códigos criaria uma função', correct: false }
+            { text: 'Nenhum desses códigos', correct: false }
         ]
     },
     {
@@ -164,7 +164,7 @@ const questions = [
         answers: [
             { text: 'call minhaFuncao()', correct: false },
             { text: 'call function minhaFuncao()', correct: false },
-            { text: 'Nenhum desses códigos chamaria essa função', correct: false },
+            { text: 'Nenhum desses códigos', correct: false },
             { text: 'minhaFuncao()', correct: true },
         ]
     },
