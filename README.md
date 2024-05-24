@@ -9,7 +9,7 @@ Este é um projeto simples usando JavaScript como linguagem principal para desen
 
 - **CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="Html" width="30">
 
-- 
+
 - **HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="Html" width="30">
 
 ## Site:
