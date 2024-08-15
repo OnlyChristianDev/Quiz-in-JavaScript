@@ -19,6 +19,3 @@ Um projeto de quiz interativo desenvolvido com JavaScript. Este quiz permite que
 Você pode visualizar e testar a aplicação online através do seguinte link:
 
 [Visualizar Aplicação ao Vivo](https://quiz-in-java-script.vercel.app/)
-
-Se você preferir testar localmente, siga as instruções de instalação abaixo.
-
