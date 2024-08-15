@@ -1,18 +1,24 @@
-# Meu Projeto
+# Quiz em JavaScript
 
-Este é um projeto simples usando JavaScript como linguagem principal para desenvolver um quiz.
+Um projeto de quiz interativo desenvolvido com JavaScript. Este quiz permite que os usuários respondam a perguntas e obtenham uma pontuação ao final do jogo.
 
-## Tecnologias Usadas
+## Funcionalidades
 
-- **JavaScript**<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="JavaScript" width="60">
+- **Perguntas e Respostas:** Apresenta uma série de perguntas com múltiplas opções de resposta.
+- **Pontuação:** Calcula e exibe a pontuação final com base nas respostas corretas.
+- **Navegação entre Perguntas:** Permite navegar pelas perguntas e respostas de forma fluida.
 
+## Tecnologias Utilizadas
 
-- **Css3** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="Css" width="30">
+- **HTML:** Estruturação da página.
+- **CSS:** Estilização e layout.
+- **JavaScript:** Lógica para perguntas, respostas e cálculo da pontuação.
 
+## Demonstração
 
-- **Html5** <img src="https://icons.veryicon.com/256/System/Plex/Other%20html%205.png" alt="Html" width="40">
+Você pode visualizar e testar a aplicação online através do seguinte link:
 
-## Site:
-url: https://quiz-in-java-script.vercel.app/
+[Visualizar Aplicação ao Vivo](https://quiz-in-java-script.vercel.app/)
 
+Se você preferir testar localmente, siga as instruções de instalação abaixo.
 
